@@ -308,6 +308,7 @@ The evidence-supported adaptation for age-groupers: **run the first half at the 
 - [Daniels' VDOT Calculator](https://vdoto2.com/calculator) — VDOT-based equivalent performance predictions and training pace zones. Standard reference in competitive running.
 - [Runalyze — Race Analysis](https://runalyze.com/) — Post-race pacing analysis with split data, HR overlay, and glycogen depletion estimation. Free tier available.
 - [World Athletics — Marathon Course Records](https://worldathletics.org/) — Official split records for major marathons. Useful for understanding elite pacing patterns on specific courses.
+- - [Mile Pace Calculator](https://milepacecalculator.com/) - Free pace calculators for runners. Find your mile pace, treadmill pace, marathon pace, splits and finish times.
 
 ---
 
